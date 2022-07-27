@@ -1,0 +1,50 @@
+.frame{
+    border: 1px;
+    
+}
+.nav-top{
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+.btn{
+    width: 170px;
+}
+.btn:hover{
+    cursor: pointer;
+    background: yellow;
+    color: black;
+}
+.buttons{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    line-height: 35px;
+    margin-right:20px;
+    color: black;
+    background-color: #ececec;
+}
+.pad{
+    padding-bottom: 30px;
+    margin-right: 30px;
+}
+.freeshipping{
+    position: relative;
+    top: -12px;
+    right:-115px;
+    padding:10px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    height: 30px;
+    width: 100px;
+}
+.git{
+    display: inline-block;
+    color: #aaa;
+    padding-top: 15px;
+    font-size: 20px;
+}
+.card-title{
+    text-align: center;
+}
